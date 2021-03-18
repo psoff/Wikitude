@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\ccf2328fbcb48ab0543565ef3fb35b7a\\support-compat-27.1.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2353",
+                        "endColumns": "100",
+                        "endOffsets": "2449"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\3c3c7cd4f35699454e158c0992148a16\\core-1.19.0\\res\\values-en-rAU\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,156,211,337,463",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "151,206,332,458,546"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\17f880884acd935afce7fc192a8e07c5\\appcompat-v7-27.1.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "551,655,755,863,947,1047,1162,1239,1315,1397,1500,1604,1703,1808,1911,2015,2171,2271",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "650,750,858,942,1042,1157,1234,1310,1392,1495,1599,1698,1803,1906,2010,2166,2266,2348"
+                    }
+                }
+            ]
+        }
+    ]
+}

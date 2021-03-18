@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_control.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_camera_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instant_load_target.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_instant_load_target.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_crop_free_white_24.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-mdpi\\baseline_crop_free_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_continuous_cloud_tracking.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_continuous_cloud_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instant_save_target.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_instant_save_target.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\xml_filepaths.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_drop_down_alert.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\drop_down_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_folder_open_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-hdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_expand_header.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\expand_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\raw_high_database.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\raw\\high_database.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_crop_free_white_24.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-hdpi\\baseline_crop_free_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extended_tracking.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_extended_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_folder_open_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_crop_free_white_24.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_crop_free_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instant_tracking.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_instant_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_folder_open_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_folder_open_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_crop_free_white_24.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xhdpi\\baseline_crop_free_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_click_cloud_tracking.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\activity_on_click_cloud_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_crop_free_white_24.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_crop_free_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_folder_open_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_expand_row.xml.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\layout\\expand_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\src\\main\\res\\drawable-mdpi\\ic_save_black_24dp.png"
+    }
+]

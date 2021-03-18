@@ -1,0 +1,266 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wikitude.nativesdksampleapp"
+4    android:versionCode="960"
+5    android:versionName="9.6.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:22-62
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <!-- Tell the system this app requires OpenGL ES 2.0. -->
+16    <uses-feature
+16-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:10:5-12:35
+17        android:glEsVersion="0x00020000"
+17-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:11:9-41
+18        android:required="true" />
+18-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:12:9-32
+19
+20    <!-- rear facing cam -->
+21    <uses-feature
+21-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:15:5-17:35
+22        android:name="android.hardware.camera"
+22-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:16:9-47
+23        android:required="true" />
+23-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:17:9-32
+24
+25    <queries>
+25-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:29:5-31:15
+26        <package android:name="com.google.ar.core" />
+26-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:30:9-54
+26-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:30:18-51
+27    </queries>
+28
+29    <application
+29-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:20:5-119:19
+30        android:allowBackup="true"
+30-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:21:9-35
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:22:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:24:9-41
+34        android:resizeableActivity="false"
+34-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:26:9-43
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:23:9-54
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:25:9-40
+38        <activity android:name="com.wikitude.samples.MainActivity" >
+38-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:27:9-33:20
+38-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:27:19-67
+39            <intent-filter>
+39-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:28:13-32:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:29:17-69
+40-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:31:17-77
+42-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:31:27-74
+43            </intent-filter>
+44        </activity>
+45        <!-- Image Tracking -->
+46        <activity
+46-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:35:9-38:57
+47            android:name="com.wikitude.samples.tracking.image.SimpleImageTrackingActivity"
+47-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:36:17-95
+48            android:configChanges="orientation|keyboardHidden|screenSize"
+48-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:37:17-78
+49            android:screenOrientation="fullSensor" />
+49-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:38:17-55
+50        <activity
+50-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:39:9-42:57
+51            android:name="com.wikitude.samples.tracking.image.ExtendedImageTrackingActivity"
+51-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:40:17-97
+52            android:configChanges="orientation|keyboardHidden|screenSize"
+52-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:41:17-78
+53            android:screenOrientation="fullSensor" />
+53-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:42:17-55
+54        <activity
+54-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:43:9-46:57
+55            android:name="com.wikitude.samples.tracking.image.MultipleTargetsImageTrackingActivity"
+55-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:44:17-104
+56            android:configChanges="orientation|keyboardHidden|screenSize"
+56-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:45:17-78
+57            android:screenOrientation="fullSensor" />
+57-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:46:17-55
+58        <!-- Cloud Recognition -->
+59        <activity
+59-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:48:9-51:57
+60            android:name="com.wikitude.samples.tracking.cloud.ContinuousCloudRecognitionActivity"
+60-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:49:17-102
+61            android:configChanges="orientation|keyboardHidden|screenSize"
+61-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:50:17-78
+62            android:screenOrientation="fullSensor" />
+62-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:51:17-55
+63        <activity
+63-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:52:9-55:57
+64            android:name="com.wikitude.samples.tracking.cloud.SingleCloudRecognitionActivity"
+64-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:53:17-98
+65            android:configChanges="orientation|keyboardHidden|screenSize"
+65-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:54:17-78
+66            android:screenOrientation="fullSensor" />
+66-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:55:17-55
+67        <!-- Instant Tracking -->
+68        <activity
+68-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:57:9-60:57
+69            android:name="com.wikitude.samples.tracking.instant.InstantTrackingActivity"
+69-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:58:17-93
+70            android:configChanges="orientation|keyboardHidden|screenSize"
+70-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:59:17-78
+71            android:screenOrientation="fullSensor" />
+71-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:60:17-55
+72        <activity
+72-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:61:9-64:57
+73            android:name="com.wikitude.samples.tracking.instant.InstantScenePickingActivity"
+73-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:62:17-97
+74            android:configChanges="orientation|keyboardHidden|screenSize"
+74-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:63:17-78
+75            android:screenOrientation="fullSensor" />
+75-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:64:17-55
+76        <activity
+76-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:65:9-68:57
+77            android:name="com.wikitude.samples.tracking.instant.SaveInstantTargetActivity"
+77-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:66:17-95
+78            android:configChanges="orientation|keyboardHidden|screenSize"
+78-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:67:17-78
+79            android:screenOrientation="fullSensor" />
+79-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:68:17-55
+80        <activity
+80-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:69:9-72:57
+81            android:name="com.wikitude.samples.tracking.instant.LoadInstantTargetActivity"
+81-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:70:17-95
+82            android:configChanges="orientation|keyboardHidden|screenSize"
+82-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:71:17-78
+83            android:screenOrientation="fullSensor" />
+83-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:72:17-55
+84        <activity
+84-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:73:9-75:53
+85            android:name="com.wikitude.samples.tracking.instant.PlaneDetectionActivity"
+85-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:73:19-94
+86            android:configChanges="orientation|keyboardHidden|screenSize"
+86-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:74:13-74
+87            android:screenOrientation="fullSensor" />
+87-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:75:13-51
+88        <!-- Object Tracking -->
+89        <activity
+89-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:77:9-80:57
+90            android:name="com.wikitude.samples.tracking.object.ObjectTrackingActivity"
+90-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:78:17-91
+91            android:configChanges="orientation|keyboardHidden|screenSize"
+91-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:79:17-78
+92            android:screenOrientation="fullSensor" />
+92-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:80:17-55
+93        <activity
+93-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:81:9-84:57
+94            android:name="com.wikitude.samples.tracking.object.ExtendedObjectTrackingActivity"
+94-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:82:17-99
+95            android:configChanges="orientation|keyboardHidden|screenSize"
+95-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:83:17-78
+96            android:screenOrientation="fullSensor" />
+96-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:84:17-55
+97        <!-- Rendering -->
+98        <activity
+98-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:86:9-89:57
+99            android:name="com.wikitude.samples.rendering.external.ExternalRenderingActivity"
+99-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:87:17-97
+100            android:configChanges="orientation|keyboardHidden|screenSize"
+100-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:88:17-78
+101            android:screenOrientation="fullSensor" />
+101-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:89:17-55
+102        <activity
+102-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:90:9-93:57
+103            android:name="com.wikitude.samples.rendering.internal.InternalRenderingActivity"
+103-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:91:17-97
+104            android:configChanges="orientation|keyboardHidden|screenSize"
+104-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:92:17-78
+105            android:screenOrientation="fullSensor" />
+105-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:93:17-55
+106        <!-- Plugins -->
+107        <activity
+107-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:95:9-98:57
+108            android:name="com.wikitude.samples.plugins.BarcodePluginActivity"
+108-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:96:17-82
+109            android:configChanges="orientation|keyboardHidden|screenSize"
+109-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:97:17-78
+110            android:screenOrientation="fullSensor" />
+110-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:98:17-55
+111        <activity
+111-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:99:9-102:57
+112            android:name="com.wikitude.samples.plugins.FaceDetectionPluginActivity"
+112-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:100:17-88
+113            android:configChanges="orientation|keyboardHidden|screenSize"
+113-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:101:17-78
+114            android:screenOrientation="fullSensor" />
+114-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:102:17-55
+115        <activity
+115-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:103:9-106:57
+116            android:name="com.wikitude.samples.plugins.SimpleInputPluginActivity"
+116-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:104:17-86
+117            android:configChanges="orientation|keyboardHidden|screenSize"
+117-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:105:17-78
+118            android:screenOrientation="fullSensor" />
+118-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:106:17-55
+119        <activity
+119-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:107:9-110:57
+120            android:name="com.wikitude.samples.plugins.CustomCameraPluginActivity"
+120-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:108:17-87
+121            android:configChanges="orientation|keyboardHidden|screenSize"
+121-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:109:17-78
+122            android:screenOrientation="fullSensor" />
+122-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:110:17-55
+123        <!-- Camera Control -->
+124        <activity
+124-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:112:9-115:57
+125            android:name="com.wikitude.samples.camera.CameraSettingsActivity"
+125-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:113:17-82
+126            android:configChanges="orientation|keyboardHidden|screenSize"
+126-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:114:17-78
+127            android:screenOrientation="fullSensor" />
+127-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:115:17-55
+128
+129        <meta-data
+129-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:5-77
+130            android:name="com.google.ar.core"
+130-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:16-49
+131            android:value="optional" />
+131-->C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:50-74
+132
+133        <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+134        <meta-data
+134-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:36:9-38:41
+135            android:name="com.google.ar.core.min_apk_version"
+135-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:37:13-62
+136            android:value="201750000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+136-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:38:13-38
+137        <activity
+137-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:40:9-46:80
+138            android:name="com.google.ar.core.InstallActivity"
+138-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:41:13-62
+139            android:configChanges="keyboardHidden|orientation|screenSize"
+139-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:42:13-74
+140            android:excludeFromRecents="true"
+140-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:43:13-46
+141            android:exported="false"
+141-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:44:13-37
+142            android:launchMode="singleTop"
+142-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:45:13-43
+143            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+143-->[com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:46:13-77
+144    </application>
+145
+146</manifest>

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\ccf2328fbcb48ab0543565ef3fb35b7a\\support-compat-27.1.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2414",
+                        "endColumns": "100",
+                        "endOffsets": "2510"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\3c3c7cd4f35699454e158c0992148a16\\core-1.19.0\\res\\values-ta\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,289,409,536",
+                        "endColumns": "49,48,119,126,90",
+                        "endOffsets": "239,288,408,535,626"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,159,212,336,467",
+                        "endColumns": "53,52,123,130,94",
+                        "endOffsets": "154,207,331,462,557"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\17f880884acd935afce7fc192a8e07c5\\appcompat-v7-27.1.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
+                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "562,676,781,896,985,1092,1218,1296,1373,1455,1557,1661,1758,1868,1970,2077,2234,2334",
+                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "671,776,891,980,1087,1213,1291,1368,1450,1552,1656,1753,1863,1965,2072,2229,2329,2409"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [:plugins] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\plugins\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:wikitude-native-sdk] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\wikitude-native-sdk\build\.transforms\32b7196d77a0122e1d2d90b8a9150c86\wikitude-native-sdk\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\bda32d18d7d5fcec95c64fdeada839ab\design-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55c3756ff7051db6a39fba59867283db\flexbox-0.2.5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\17f880884acd935afce7fc192a8e07c5\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\119fb4c17568090bc6695c3394519ddb\support-v4-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1d04cf45c545c817202ee7c940c1331e\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:17:1-49:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\5261a061bb3f0bf026127b9692f40465\support-fragment-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\7d7088f7644bafdf77f32050d0d2cc34\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\f8ffde96d9ae36a22addbf7e37094b20\recyclerview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\84333aefe591eb567d03b23ea6f0bc40\support-core-ui-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\8824655e3a8c1652440fcb7f07151bd6\support-core-utils-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\93ba107bab46ae0e434c5016df173241\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1848e858ce4fea7d82fd78a36fa27405\transition-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\51c1f08dc94839419070296aa9afb234\support-media-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\ccf2328fbcb48ab0543565ef3fb35b7a\support-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:1-120:12
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:7:22-64
+uses-feature#0x00020000
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:12:9-32
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:16:9-47
+application
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:20:5-119:19
+MERGED from [:wikitude-native-sdk] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\wikitude-native-sdk\build\.transforms\32b7196d77a0122e1d2d90b8a9150c86\wikitude-native-sdk\AndroidManifest.xml:11:5-14:19
+MERGED from [:wikitude-native-sdk] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\wikitude-native-sdk\build\.transforms\32b7196d77a0122e1d2d90b8a9150c86\wikitude-native-sdk\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1d04cf45c545c817202ee7c940c1331e\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1d04cf45c545c817202ee7c940c1331e\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:33:5-47:19
+MERGED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:33:5-47:19
+	android:label
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:24:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:26:9-43
+	android:roundIcon
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.wikitude.samples.MainActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:27:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.wikitude.samples.tracking.image.SimpleImageTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:35:9-38:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:38:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:36:17-95
+activity#com.wikitude.samples.tracking.image.ExtendedImageTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:39:9-42:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:42:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:41:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:40:17-97
+activity#com.wikitude.samples.tracking.image.MultipleTargetsImageTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:43:9-46:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:46:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:45:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:44:17-104
+activity#com.wikitude.samples.tracking.cloud.ContinuousCloudRecognitionActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:48:9-51:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:51:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:49:17-102
+activity#com.wikitude.samples.tracking.cloud.SingleCloudRecognitionActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:52:9-55:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:55:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:53:17-98
+activity#com.wikitude.samples.tracking.instant.InstantTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:57:9-60:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:60:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:59:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:58:17-93
+activity#com.wikitude.samples.tracking.instant.InstantScenePickingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:61:9-64:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:64:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:62:17-97
+activity#com.wikitude.samples.tracking.instant.SaveInstantTargetActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:65:9-68:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:68:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:67:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:66:17-95
+activity#com.wikitude.samples.tracking.instant.LoadInstantTargetActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:69:9-72:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:72:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:70:17-95
+activity#com.wikitude.samples.tracking.instant.PlaneDetectionActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:73:9-75:53
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:75:13-51
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:74:13-74
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:73:19-94
+activity#com.wikitude.samples.tracking.object.ObjectTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:77:9-80:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:80:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:79:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:78:17-91
+activity#com.wikitude.samples.tracking.object.ExtendedObjectTrackingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:81:9-84:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:84:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:83:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:82:17-99
+activity#com.wikitude.samples.rendering.external.ExternalRenderingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:86:9-89:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:89:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:87:17-97
+activity#com.wikitude.samples.rendering.internal.InternalRenderingActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:90:9-93:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:93:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:92:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:91:17-97
+activity#com.wikitude.samples.plugins.BarcodePluginActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:95:9-98:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:98:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:97:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:96:17-82
+activity#com.wikitude.samples.plugins.FaceDetectionPluginActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:99:9-102:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:102:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:101:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:100:17-88
+activity#com.wikitude.samples.plugins.SimpleInputPluginActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:103:9-106:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:106:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:105:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:104:17-86
+activity#com.wikitude.samples.plugins.CustomCameraPluginActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:107:9-110:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:110:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:108:17-87
+activity#com.wikitude.samples.camera.CameraSettingsActivity
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:112:9-115:57
+	android:screenOrientation
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:115:17-55
+	android:configChanges
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:114:17-78
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:113:17-82
+meta-data#com.google.ar.core
+ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:5-77
+	android:value
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:50-74
+	android:name
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml:117:16-49
+uses-sdk
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+MERGED from [:plugins] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\plugins\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:plugins] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\plugins\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wikitude-native-sdk] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\wikitude-native-sdk\build\.transforms\32b7196d77a0122e1d2d90b8a9150c86\wikitude-native-sdk\AndroidManifest.xml:7:5-9:41
+MERGED from [:wikitude-native-sdk] C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\wikitude-native-sdk\build\.transforms\32b7196d77a0122e1d2d90b8a9150c86\wikitude-native-sdk\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\bda32d18d7d5fcec95c64fdeada839ab\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\bda32d18d7d5fcec95c64fdeada839ab\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55c3756ff7051db6a39fba59867283db\flexbox-0.2.5\AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.2.5] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55c3756ff7051db6a39fba59867283db\flexbox-0.2.5\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\17f880884acd935afce7fc192a8e07c5\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\17f880884acd935afce7fc192a8e07c5\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\119fb4c17568090bc6695c3394519ddb\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\119fb4c17568090bc6695c3394519ddb\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1d04cf45c545c817202ee7c940c1331e\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1d04cf45c545c817202ee7c940c1331e\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\5261a061bb3f0bf026127b9692f40465\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\5261a061bb3f0bf026127b9692f40465\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\7d7088f7644bafdf77f32050d0d2cc34\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\7d7088f7644bafdf77f32050d0d2cc34\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\f8ffde96d9ae36a22addbf7e37094b20\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\f8ffde96d9ae36a22addbf7e37094b20\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\84333aefe591eb567d03b23ea6f0bc40\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\84333aefe591eb567d03b23ea6f0bc40\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\8824655e3a8c1652440fcb7f07151bd6\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\8824655e3a8c1652440fcb7f07151bd6\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\93ba107bab46ae0e434c5016df173241\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\93ba107bab46ae0e434c5016df173241\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1848e858ce4fea7d82fd78a36fa27405\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\1848e858ce4fea7d82fd78a36fa27405\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\51c1f08dc94839419070296aa9afb234\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\51c1f08dc94839419070296aa9afb234\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\ccf2328fbcb48ab0543565ef3fb35b7a\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\ccf2328fbcb48ab0543565ef3fb35b7a\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\034baf61ecc76093c6473880869d6c7d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\55ba849a3c8a045c874d3c83b65a8453\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\379966e143550e1442447a14fea1645d\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\b60d0bcb4f2e634c007f39000166f8b0\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soffi\AndroidStudioProjects\NativeSDKExamples\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.19.0] C:\Users\Soffi\.gradle\caches\transforms-2\files-2.1\3c3c7cd4f35699454e158c0992148a16\core-1.19.0\AndroidManifest.xml:41:13-62

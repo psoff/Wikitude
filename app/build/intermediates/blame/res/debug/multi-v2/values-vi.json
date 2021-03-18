@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Soffi\\AndroidStudioProjects\\NativeSDKExamples\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\3c3c7cd4f35699454e158c0992148a16\\core-1.19.0\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,234,285,418,556",
+                        "endColumns": "43,50,132,137,100",
+                        "endOffsets": "233,284,417,555,656"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,153,208,345,487",
+                        "endColumns": "47,54,136,141,104",
+                        "endOffsets": "148,203,340,482,587"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\17f880884acd935afce7fc192a8e07c5\\appcompat-v7-27.1.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "592,706,814,923,1007,1110,1229,1306,1383,1467,1571,1680,1781,1886,2000,2105,2262,2361",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "701,809,918,1002,1105,1224,1301,1378,1462,1566,1675,1776,1881,1995,2100,2257,2356,2440"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Soffi\\.gradle\\caches\\transforms-2\\files-2.1\\ccf2328fbcb48ab0543565ef3fb35b7a\\support-compat-27.1.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "25",
+                        "startColumns": "4",
+                        "startOffsets": "2445",
+                        "endColumns": "100",
+                        "endOffsets": "2541"
+                    }
+                }
+            ]
+        }
+    ]
+}

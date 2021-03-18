@@ -1,0 +1,96 @@
+apply plugin: 'com.android.library'
+
+/* To rebuild the plugins this has to be set to true. Otherwise the prebuilt plugins library will be used.
+ * This is only for the purpose of providing the Example App without the requirement of installing the Android NDK.
+ */
+def rebuildPlugins = false
+
+/* Defines the temporary path for the NativeSDK shared library and Plugins shared library.*/
+def wikitudeTmpPath = "${buildDir}/wikitude"
+
+/* Creates a new configuration to extract the shared library from the NativeSDK for the Plugins to link against. */
+configurations { libraryExtraction }
+
+android {
+    ndkVersion commonNdkVersion
+    compileSdkVersion commonCompileSdkVersion
+
+    defaultConfig {
+        minSdkVersion commonMinSdkVersion
+        targetSdkVersion commonTargetSdkVersion
+
+        externalNativeBuild {
+            cmake {
+                arguments "-DANDROID_TOOLCHAIN=clang",
+                        "-DANDROID_STL=c++_shared",
+                        "-DANDROID_NATIVE_API_LEVEL=19",
+                        /* Provides the path to the extracted nativesdk.so to CMake */
+                        "-DWIKITUDE_NATIVE_PATH=${wikitudeTmpPath}/jni",
+                        /* Provides the path to that the built plugins library should be copied to to CMake */
+                        "-DPLUGIN_OUTPUT_PATH=${wikitudeTmpPath}/libs"
+
+                cppFlags "-std=c++14"
+                abiFilters 'armeabi-v7a', 'arm64-v8a'
+            }
+        }
+    }
+
+    /* If the plugins should be rebuilt add the CMakeFile to the project. */
+    if (rebuildPlugins) {
+        externalNativeBuild {
+            cmake {
+                path "src/main/cpp/CMakeLists.txt"
+            }
+        }
+    }
+
+    sourceSets {
+        main {
+            /* This adds libraries that the sample plugins depend on (e.g. openCV) to the APK. */
+            jniLibs.srcDirs = ['src/main/cpp/lib']
+            /* If the plugins are not rebuilt use the pre-built library that is located in the jniLibs folder. */
+            if (!rebuildPlugins) {
+                jniLibs.srcDirs += ['src/main/jniLibs']
+            }
+        }
+    }
+}
+
+dependencies {
+    /*
+        Wikitude provides a maven repository on https://cdn.wikitude.com/sdk/maven which can be used
+        here instead of the local .aar by replacing project(':wikitude-native-sdk') with "com.wikitude:native:9.6.0"
+     */
+    implementation project(':wikitude-native-sdk')
+    /* Extract the native sdk shared library from the aar. */
+    libraryExtraction project(':wikitude-native-sdk')
+}
+
+/* Task to extract the nativesdk shared library from the aar. */
+task extractNativeLibraries() {
+    doFirst {
+        configurations.libraryExtraction.files.each { file ->
+            copy {
+                from zipTree(file)
+                into wikitudeTmpPath
+                include "jni/**/*"
+            }
+        }
+    }
+}
+tasks.whenTaskAdded {
+    task ->
+        if (task.name.contains("external") && !task.name.contains("Clean")) {
+            /* The externalNativeBuild depends on the extraction task to be able to link properly. */
+            task.dependsOn(extractNativeLibraries)
+            /* Once the native build is done the plugin library is copied to jniLibs to be available
+             * when the plugins should not be rebuilt.
+             */
+            task.doLast {
+                copy {
+                    from "${wikitudeTmpPath}/libs"
+                    into 'src/main/jniLibs'
+                }
+            }
+        }
+}
